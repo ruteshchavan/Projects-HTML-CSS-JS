@@ -1,0 +1,30 @@
+#a1{
+  border: 2px solid black;
+  border-radius: 8px;
+  width: 15%;
+  height: 400px;
+  justify-content: center;
+  background-color: aquamarine;
+}
+
+
+#enter{
+  margin: 11px;
+  width: 200px;
+  height: 25px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+.bt{
+  width: 50px;
+  height: 40px;
+  margin: 8px;
+  justify-content: center;
+  font-size: 25px;
+  border-radius: 10px;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
